@@ -1,2 +1,2 @@
-# improved-octo-eureka
-Collection and analysis of Youtube data using python
+# Data Collection and analysis using python
+Trending video datas are collected from Youtube and analysed using python
